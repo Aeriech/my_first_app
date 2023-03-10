@@ -1,6 +1,7 @@
 <x-header data="Name Header Component"/>
 
 @include('inner')
+
 {{-- Conditions
 @if ($name=="Aeriech")
 <h1>
